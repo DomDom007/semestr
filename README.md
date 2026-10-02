@@ -1,9 +1,9 @@
-# Semestr
+﻿# Semestr
 
 > **Upload a syllabus and every deadline lands in your calendar, with study blocks planned backwards.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-success)](https://mokhless2.github.io/semestr/)
+[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-success)](https://domdom007.github.io/semestr/)
 [![Zero Server](https://img.shields.io/badge/Data%20Privacy-100%25%20Local-blue)](#privacy--architecture)
 
 **Semestr** is an open-source, client-side web utility designed specifically for **University students**. It solves a focused problem with zero friction: no login, no database, no recurring fees, and no data tracking.
@@ -11,7 +11,7 @@
 ---
 
 ## ⚡ Live Demo
-**Try it online now:** [https://mokhless2.github.io/semestr/](https://mokhless2.github.io/semestr/)
+**Try it online now:** [https://domdom007.github.io/semestr/](https://domdom007.github.io/semestr/)
 
 ---
 
@@ -37,7 +37,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/mokhless2/semestr.git
+git clone https://github.com/domdom007/semestr.git
 cd semestr
 
 # 2. Install dependencies
@@ -80,4 +80,4 @@ Contributions, bug reports, and suggestions are welcome!
 
 Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for more information.
 
-Developed by [Mokhles Ben Moallem](https://github.com/mokhless2) • [Meta Creative Tunisia](https://metatunisie.com)
+Developed by [Mokhles Ben Moallem](https://github.com/domdom007) • [Meta Creative Tunisia](https://metatunisie.com)
